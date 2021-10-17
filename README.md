@@ -1,24 +1,36 @@
-# README
+**ICDI-Task**
+===
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Demo website: **TODO**  
 
-Things you may want to cover:
+- ICDI-Task - **TODO**:place an image of ICDI-Task
 
-* Ruby version
+---
 
-* System dependencies
+## Table of Contents
+- [General info](#general-info)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Status](#status)
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+## General info
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Technologies
+Project is created with:
+- Ruby 2.7.3
+- Rails 6.1.4
+- PostgreSQL
+- Bootstrap (TODO)
+- JavaScript
 
-* Deployment instructions
 
-* ...
+
+## Installation
+>TODO, 
+
+e.g. 
+
+- `gem ''`
